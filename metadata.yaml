@@ -1,5 +1,8 @@
 _repo: Messer-Marco-Polo_2058
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Byrne, Donn
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/805
 description: Old peasant tells his cronies the tale of the great adventurer and lover,
   in racy Irish-English.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2058#Messer-Marco-Polo
 gutenberg_issued: '2000-02-01'
 gutenberg_type: Text
 identifiers:
